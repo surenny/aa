@@ -5,8 +5,8 @@
 new()
 }
 \description{
-THIS is a new function. Same as Prints 'Hello, world!'.
+THIS is a NEW function. Same as Prints 'Hello, world!'.
 }
 \examples{
-hello()
+new()
 }
